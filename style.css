@@ -145,8 +145,8 @@ marquee:hover {
 }
 
 .small-poster div {
-    width: 420px;
-    height: 290px;
+    width: 410px;
+    height: 280px;
     overflow: hidden;
     cursor: pointer;
 }
